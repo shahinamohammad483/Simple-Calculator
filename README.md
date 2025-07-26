@@ -13,3 +13,4 @@ It includes error handling for:
 - Basic function and conditional statements
 ---
 ## 📷 Sample output
+![Sample output](calculator_output.png)
